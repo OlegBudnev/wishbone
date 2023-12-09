@@ -1,0 +1,41 @@
+.partners {
+    min-height: 720px;
+    padding: 77px 780px 77px 60px;
+    background: #ECE7E4 url(/src/images/bg-1.png) right no-repeat;
+    &__wrap {
+        padding: 60px 51px 51px 40px;
+    }
+    &__company {
+        color: #645C55;
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 400;
+        text-transform: uppercase;
+    }
+    &__title {
+        margin-top: 20px;
+        color: #1B1A1A;
+        font-family: Poppins;
+        font-size: 64px;
+        font-style: normal;
+        line-height: 70.4px;
+    }
+    &__descr {
+        width: 509px;
+        margin-top: 18px;
+        color: #403E3B;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px; 
+    }
+    &__excerpt {
+        margin-top: 41px;
+        color: #1B1A1A;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+            }
+}
